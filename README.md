@@ -1,4 +1,4 @@
-# Project 6 - *Tumblr *
+# Project 6 - *Tumblr*
 
 Submitted by: **Brody Haar**
 
