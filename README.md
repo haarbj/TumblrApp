@@ -4,8 +4,6 @@ Created by: **Brody Haar**
 
 **Tumblr** is a microblogging and social networking website. The service allows users to post multimedia and other content to a short-form blog.
 
-Time spent: **3** hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
