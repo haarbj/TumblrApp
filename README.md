@@ -1,6 +1,6 @@
-# Project 6 - *Tumblr*
+# *Tumblr*
 
-Submitted by: **Brody Haar**
+Created by: **Brody Haar**
 
 **Tumblr** is a microblogging and social networking website. The service allows users to post multimedia and other content to a short-form blog.
 
@@ -14,11 +14,6 @@ The following **required** functionality is completed:
 - [X] Created the Detail View UI
 - [X] Add the ability to pass data to the Detail View Controller
 - [X] Made personal finishing touches to the UI
-
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
